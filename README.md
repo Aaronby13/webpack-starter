@@ -7,5 +7,6 @@ This is a starter project used to create webapps using webpack.
 You should run the command to rebuild the node_modules. 
 
 ```
-npm run build
+npm install 
 ```
+
